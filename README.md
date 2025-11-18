@@ -10,12 +10,19 @@ It includes authentication, CRUD operations, department management, attendance t
 🚀 Key Features
 
 ✨ Add, Edit, Delete, View Student Records
+
 ✨ Attendance Management
+
 ✨ Department Creation & Listing
+
 ✨ Secure Login & Signup using Flask-Login
+
 ✨ MySQL Database Connectivity
+
 ✨ Clean UI for Easy Navigation
+
 ✨ Search Student Using Roll Number
+
 ✨ Triggers Table for Audit Logs
 
 🛠️ Tech Stack
