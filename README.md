@@ -26,7 +26,9 @@ It includes authentication, CRUD operations, department management, attendance t
 ✨ Triggers Table for Audit Logs
 
 🛠️ Tech Stack
-Layer	Technology
+
+Layer	- Technology
+
 🎨 Frontend -	HTML, CSS, Bootstrap
 
 ⚙️ Backend	- Flask (Python)
